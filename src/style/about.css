@@ -1,0 +1,19 @@
+.social-icon{
+    display: flex;
+    justify-content: space-between;
+    width: 100px;
+    align-items: center;
+    
+}
+
+.i-icon{
+    font-size: 50px;
+    color: red;
+}
+.f-icon{
+    font-size: 50px;
+    color: blue;
+}
+.s-icon{
+    font-size: 50px;
+}

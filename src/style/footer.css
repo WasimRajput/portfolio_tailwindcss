@@ -1,0 +1,7 @@
+footer {
+    width: 100%;
+    background-color: black;
+    color: white; /* Ensure text color is visible */
+    padding: 1px;
+    text-align: center;
+}
